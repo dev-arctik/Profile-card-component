@@ -12,8 +12,8 @@ body {
   justify-content: center;
   flex-direction: column;
   height: 100vh;
-  background: url("/images/bg-pattern-top.svg") no-repeat,
-    url("/images/bg-pattern-bottom.svg") no-repeat hsl(185, 75%, 39%);
+  background: url("images/bg-pattern-top.svg") no-repeat,
+    url("images/bg-pattern-bottom.svg") no-repeat hsl(185, 75%, 39%);
   background-position: -301px -591px, 630px 340px;
 }
 
@@ -33,7 +33,7 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  background: url(/images/bg-pattern-card.svg);
+  background: url(images/bg-pattern-card.svg);
   border-radius: 15px 15px 0px 0px;
 }
 
